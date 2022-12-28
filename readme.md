@@ -16,7 +16,7 @@
 
 ### Demo
 
-  https://onemanager-php.vercel.app/  
+  https://onemanager-one-virid.vercel.app/
 
 ### Notice
 
